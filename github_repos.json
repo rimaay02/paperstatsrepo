@@ -1,0 +1,1178 @@
+[
+    {
+        "name": "openstf/stf",
+        "url": "https://github.com/openstf/stf",
+        "stars": 13508,
+        "last_updated": "2025-04-23T13:22:30Z",
+        "description": "Control and manage Android devices from your browser."
+    },
+    {
+        "name": "nasa/openmct",
+        "url": "https://github.com/nasa/openmct",
+        "stars": 12288,
+        "last_updated": "2025-04-24T01:23:01Z",
+        "description": "A web based mission control framework. "
+    },
+    {
+        "name": "tj/co",
+        "url": "https://github.com/tj/co",
+        "stars": 11885,
+        "last_updated": "2025-04-17T12:57:47Z",
+        "description": "The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)"
+    },
+    {
+        "name": "typekit/webfontloader",
+        "url": "https://github.com/typekit/webfontloader",
+        "stars": 9250,
+        "last_updated": "2025-04-23T16:38:59Z",
+        "description": "Web Font Loader gives you added control when using linked fonts via @font-face."
+    },
+    {
+        "name": "mozilla/nunjucks",
+        "url": "https://github.com/mozilla/nunjucks",
+        "stars": 8679,
+        "last_updated": "2025-04-22T20:40:06Z",
+        "description": "A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)"
+    },
+    {
+        "name": "jspreadsheet/ce",
+        "url": "https://github.com/jspreadsheet/ce",
+        "stars": 6887,
+        "last_updated": "2025-04-24T01:42:33Z",
+        "description": "Jspreadsheet is a lightweight JavaScript data grid component for creating interactive data grids with advanced spreadsheet controls."
+    },
+    {
+        "name": "tailwindlabs/tailwindcss-typography",
+        "url": "https://github.com/tailwindlabs/tailwindcss-typography",
+        "stars": 5364,
+        "last_updated": "2025-04-24T03:10:09Z",
+        "description": "Beautiful typographic defaults for HTML you don't control."
+    },
+    {
+        "name": "scottschiller/SoundManager2",
+        "url": "https://github.com/scottschiller/SoundManager2",
+        "stars": 5021,
+        "last_updated": "2025-04-22T06:56:29Z",
+        "description": "A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed."
+    },
+    {
+        "name": "viarotel-org/escrcpy",
+        "url": "https://github.com/viarotel-org/escrcpy",
+        "stars": 4852,
+        "last_updated": "2025-04-24T07:13:03Z",
+        "description": "\ud83d\udcf1 Display and control your Android device graphically with scrcpy."
+    },
+    {
+        "name": "azukaar/Cosmos-Server",
+        "url": "https://github.com/azukaar/Cosmos-Server",
+        "stars": 4425,
+        "last_updated": "2025-04-24T06:13:32Z",
+        "description": "\u2601\ufe0f The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)"
+    },
+    {
+        "name": "shadowsocks/shadowsocks-manager",
+        "url": "https://github.com/shadowsocks/shadowsocks-manager",
+        "stars": 4119,
+        "last_updated": "2025-04-23T21:15:52Z",
+        "description": "A shadowsocks manager tool for multi user and traffic control."
+    },
+    {
+        "name": "lbryio/lbry-desktop",
+        "url": "https://github.com/lbryio/lbry-desktop",
+        "stars": 3547,
+        "last_updated": "2025-04-15T16:52:19Z",
+        "description": "A browser and wallet for LBRY, the decentralized, user-controlled content marketplace."
+    },
+    {
+        "name": "sunnylqm/react-native-storage",
+        "url": "https://github.com/sunnylqm/react-native-storage",
+        "stars": 3033,
+        "last_updated": "2025-04-22T20:39:25Z",
+        "description": "local storage wrapper for both react-native and browser. Support size controlling, auto expiring, remote data auto syncing and getting batch data in one query."
+    },
+    {
+        "name": "seiyria/bootstrap-slider",
+        "url": "https://github.com/seiyria/bootstrap-slider",
+        "stars": 2984,
+        "last_updated": "2025-04-18T08:15:40Z",
+        "description": "A slider control for Bootstrap 3 & 4."
+    },
+    {
+        "name": "rilyu/teaset",
+        "url": "https://github.com/rilyu/teaset",
+        "stars": 2948,
+        "last_updated": "2025-04-14T22:44:02Z",
+        "description": "A UI library for react native, provides 20+ pure JS(ES6) components, focusing on content display and action control."
+    },
+    {
+        "name": "evancohen/smart-mirror",
+        "url": "https://github.com/evancohen/smart-mirror",
+        "stars": 2805,
+        "last_updated": "2025-04-22T04:42:15Z",
+        "description": "The fairest of them all. A DIY voice controlled smart mirror with IoT integration."
+    },
+    {
+        "name": "OptimalBits/node_acl",
+        "url": "https://github.com/OptimalBits/node_acl",
+        "stars": 2628,
+        "last_updated": "2025-04-17T00:58:13Z",
+        "description": "Access control lists for node applications"
+    },
+    {
+        "name": "ErickWendel/semana-javascript-expert07",
+        "url": "https://github.com/ErickWendel/semana-javascript-expert07",
+        "stars": 2390,
+        "last_updated": "2025-04-05T22:30:15Z",
+        "description": "JS Expert Week 7.0 - \ud83d\ude45\ud83e\udd0f\ud83c\udffb Controlling Streaming Platforms using Eye and Hand Detection \ud83d\udc41\ud83d\udd90"
+    },
+    {
+        "name": "creationix/step",
+        "url": "https://github.com/creationix/step",
+        "stars": 2203,
+        "last_updated": "2025-02-14T15:49:25Z",
+        "description": "An async control-flow library that makes stepping through logic easy."
+    },
+    {
+        "name": "AudithSoftworks/Uniform",
+        "url": "https://github.com/AudithSoftworks/Uniform",
+        "stars": 2197,
+        "last_updated": "2025-04-04T14:50:04Z",
+        "description": "A jQuery plugin to make your form controls look how you want them to. Now with HTML-5 attributes!"
+    },
+    {
+        "name": "insin/control-panel-for-twitter",
+        "url": "https://github.com/insin/control-panel-for-twitter",
+        "stars": 2104,
+        "last_updated": "2025-04-23T03:20:50Z",
+        "description": "Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile"
+    },
+    {
+        "name": "learnk8s/xlskubectl",
+        "url": "https://github.com/learnk8s/xlskubectl",
+        "stars": 1971,
+        "last_updated": "2025-04-23T18:16:04Z",
+        "description": "xlskubectl \u2014 a spreadsheet to control your Kubernetes cluster"
+    },
+    {
+        "name": "aholstenson/miio",
+        "url": "https://github.com/aholstenson/miio",
+        "stars": 1884,
+        "last_updated": "2025-04-18T10:07:56Z",
+        "description": "Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more"
+    },
+    {
+        "name": "felixge/node-ar-drone",
+        "url": "https://github.com/felixge/node-ar-drone",
+        "stars": 1757,
+        "last_updated": "2025-04-13T22:22:52Z",
+        "description": "A node.js client for controlling Parrot AR Drone 2.0 quad-copters."
+    },
+    {
+        "name": "bradtraversy/node_passport_login",
+        "url": "https://github.com/bradtraversy/node_passport_login",
+        "stars": 1751,
+        "last_updated": "2025-04-23T14:28:30Z",
+        "description": "Node.js login, registration and access control using Express and Passport"
+    },
+    {
+        "name": "samyk/skyjack",
+        "url": "https://github.com/samyk/skyjack",
+        "stars": 1751,
+        "last_updated": "2025-04-20T23:12:57Z",
+        "description": "A drone engineered to autonomously seek out, hack, and wirelessly take full control over any other Parrot or 3DR drones within wireless or flying distance, creating an army of zombie drones under your control."
+    },
+    {
+        "name": "getify/asynquence",
+        "url": "https://github.com/getify/asynquence",
+        "stars": 1744,
+        "last_updated": "2025-02-14T11:17:03Z",
+        "description": "Asynchronous flow control (promises, generators, observables, CSP, etc)"
+    },
+    {
+        "name": "usmannasir/cyberpanel",
+        "url": "https://github.com/usmannasir/cyberpanel",
+        "stars": 1711,
+        "last_updated": "2025-04-23T07:31:11Z",
+        "description": "Cyber Panel - The hosting control panel for OpenLiteSpeed"
+    },
+    {
+        "name": "victorstanciu/dbv",
+        "url": "https://github.com/victorstanciu/dbv",
+        "stars": 1694,
+        "last_updated": "2025-04-23T20:17:50Z",
+        "description": "Database version control, made easy!"
+    },
+    {
+        "name": "djipco/webmidi",
+        "url": "https://github.com/djipco/webmidi",
+        "stars": 1610,
+        "last_updated": "2025-04-22T13:18:12Z",
+        "description": "Tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend, controlchange, etc.)."
+    },
+    {
+        "name": "acidb/mobiscroll",
+        "url": "https://github.com/acidb/mobiscroll",
+        "stars": 1546,
+        "last_updated": "2025-04-23T12:08:27Z",
+        "description": "Cross platform UI controls for progressive web and hybrid apps (plain JS, jQuery, Angular and React)"
+    },
+    {
+        "name": "JeffreyZhao/wind",
+        "url": "https://github.com/JeffreyZhao/wind",
+        "stars": 1529,
+        "last_updated": "2025-04-11T06:34:40Z",
+        "description": "Asynchronous flow control in JavaScript, with JavaScript."
+    },
+    {
+        "name": "Izzimach/react-three-legacy",
+        "url": "https://github.com/Izzimach/react-three-legacy",
+        "stars": 1524,
+        "last_updated": "2025-03-17T03:51:48Z",
+        "description": "React bindings to create and control a 3D scene using three.js"
+    },
+    {
+        "name": "ermouth/jQuery.my",
+        "url": "https://github.com/ermouth/jQuery.my",
+        "stars": 1509,
+        "last_updated": "2025-03-03T20:46:39Z",
+        "description": "jQuery.my is a plugin that reactively binds form controls with js data structures."
+    },
+    {
+        "name": "vimeo/player.js",
+        "url": "https://github.com/vimeo/player.js",
+        "stars": 1460,
+        "last_updated": "2025-04-22T22:28:00Z",
+        "description": "Interact with and control an embedded Vimeo Player."
+    },
+    {
+        "name": "jexom/sd-webui-depth-lib",
+        "url": "https://github.com/jexom/sd-webui-depth-lib",
+        "stars": 1414,
+        "last_updated": "2025-04-24T04:12:39Z",
+        "description": "Depth map library for use with the Control Net extension for Automatic1111/stable-diffusion-webui"
+    },
+    {
+        "name": "alexkuz/react-input-enhancements",
+        "url": "https://github.com/alexkuz/react-input-enhancements",
+        "stars": 1373,
+        "last_updated": "2025-03-25T13:28:46Z",
+        "description": "Set of enhancements for input control"
+    },
+    {
+        "name": "mishk0/slack-bot-api",
+        "url": "https://github.com/mishk0/slack-bot-api",
+        "stars": 1345,
+        "last_updated": "2025-04-16T20:24:58Z",
+        "description": ":rocket: Simple way to control your Slack Bot"
+    },
+    {
+        "name": "sdkcarlos/artyom.js",
+        "url": "https://github.com/sdkcarlos/artyom.js",
+        "stars": 1257,
+        "last_updated": "2025-04-22T09:22:41Z",
+        "description": "A voice control - voice commands - speech recognition and speech synthesis javascript library. Create your own siri,google now or cortana with Google Chrome within your website."
+    },
+    {
+        "name": "ykdojo/kaguya",
+        "url": "https://github.com/ykdojo/kaguya",
+        "stars": 1196,
+        "last_updated": "2025-04-17T02:12:23Z",
+        "description": "A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script."
+    },
+    {
+        "name": "perliedman/leaflet-routing-machine",
+        "url": "https://github.com/perliedman/leaflet-routing-machine",
+        "stars": 1128,
+        "last_updated": "2025-04-24T01:31:06Z",
+        "description": "Control for routing in Leaflet"
+    },
+    {
+        "name": "javierbyte/control-user-cursor",
+        "url": "https://github.com/javierbyte/control-user-cursor",
+        "stars": 1082,
+        "last_updated": "2025-02-12T14:50:19Z",
+        "description": "Small experiment to 'control' the user cursor with JavaScript and CSS."
+    },
+    {
+        "name": "littlstar/s3-lambda",
+        "url": "https://github.com/littlstar/s3-lambda",
+        "stars": 1068,
+        "last_updated": "2025-02-07T09:30:40Z",
+        "description": "Lambda functions over S3 objects with concurrency control (each, map, reduce, filter)"
+    },
+    {
+        "name": "endtwist/kerning.js",
+        "url": "https://github.com/endtwist/kerning.js",
+        "stars": 1051,
+        "last_updated": "2025-04-01T14:11:24Z",
+        "description": "Take control of your web typography."
+    },
+    {
+        "name": "dkaoster/scrolly-video",
+        "url": "https://github.com/dkaoster/scrolly-video",
+        "stars": 1047,
+        "last_updated": "2025-04-18T04:37:43Z",
+        "description": "Components for scroll-based (or other externally controlled) playback."
+    },
+    {
+        "name": "raineorshine/solgraph",
+        "url": "https://github.com/raineorshine/solgraph",
+        "stars": 1031,
+        "last_updated": "2025-04-22T06:51:44Z",
+        "description": "Visualize Solidity control flow for smart contract security analysis.  :dollar: \u21c6 :dollar:"
+    },
+    {
+        "name": "koalazak/dorita980",
+        "url": "https://github.com/koalazak/dorita980",
+        "stars": 1022,
+        "last_updated": "2025-04-22T05:36:09Z",
+        "description": "Unofficial iRobot Roomba and Braava (i7/i7+, 980, 960, 900, e5, 690, 675, m6, etc) node.js library (SDK) to control your robot"
+    },
+    {
+        "name": "seeden/rbac",
+        "url": "https://github.com/seeden/rbac",
+        "stars": 999,
+        "last_updated": "2025-04-08T01:58:13Z",
+        "description": "Hierarchical Role Based Access Control for NodeJS"
+    },
+    {
+        "name": "rstaib/jquery-bootgrid",
+        "url": "https://github.com/rstaib/jquery-bootgrid",
+        "stars": 974,
+        "last_updated": "2025-03-04T09:01:04Z",
+        "description": "Nice, sleek and intuitive. A grid control especially designed for bootstrap."
+    },
+    {
+        "name": "fivdi/pigpio",
+        "url": "https://github.com/fivdi/pigpio",
+        "stars": 956,
+        "last_updated": "2025-03-31T17:49:55Z",
+        "description": "Fast GPIO, PWM, servo control, state change notification and interrupt handling with Node.js on the Raspberry Pi"
+    },
+    {
+        "name": "chrisgrieser/shimmering-obsidian",
+        "url": "https://github.com/chrisgrieser/shimmering-obsidian",
+        "stars": 922,
+        "last_updated": "2025-04-20T04:11:37Z",
+        "description": "Alfred workflow with dozens of features for controlling your Obsidian vault."
+    },
+    {
+        "name": "zmmbreeze/lining.js",
+        "url": "https://github.com/zmmbreeze/lining.js",
+        "stars": 905,
+        "last_updated": "2025-02-20T09:01:03Z",
+        "description": "An easy to use javascript plugin offers you complete DOWN-TO-THE-LINE control for radical web typography."
+    },
+    {
+        "name": "boku7/Loki",
+        "url": "https://github.com/boku7/Loki",
+        "stars": 868,
+        "last_updated": "2025-04-23T23:46:35Z",
+        "description": "\ud83e\uddd9\u200d\u2642\ufe0f Node.js Command & Control for Script-Jacking Vulnerable Electron Applications"
+    },
+    {
+        "name": "domoritz/leaflet-locatecontrol",
+        "url": "https://github.com/domoritz/leaflet-locatecontrol",
+        "stars": 842,
+        "last_updated": "2025-04-24T00:27:07Z",
+        "description": "A leaflet control to geolocate the user."
+    },
+    {
+        "name": "elbywan/yett",
+        "url": "https://github.com/elbywan/yett",
+        "stars": 800,
+        "last_updated": "2025-04-07T14:33:14Z",
+        "description": "\ud83d\udd10A small webpage library to control the execution of (third party) scripts"
+    },
+    {
+        "name": "colinbdclark/osc.js",
+        "url": "https://github.com/colinbdclark/osc.js",
+        "stars": 793,
+        "last_updated": "2025-04-23T11:21:04Z",
+        "description": "An Open Sound Control (OSC) library for JavaScript that works in both the browser and Node.js"
+    },
+    {
+        "name": "bevacqua/contra",
+        "url": "https://github.com/bevacqua/contra",
+        "stars": 779,
+        "last_updated": "2025-03-23T14:42:16Z",
+        "description": ":surfer: Asynchronous flow control with a functional taste to it"
+    },
+    {
+        "name": "kgshank/gse-sound-output-device-chooser",
+        "url": "https://github.com/kgshank/gse-sound-output-device-chooser",
+        "stars": 778,
+        "last_updated": "2025-04-10T16:04:21Z",
+        "description": "Gnome Shell Extension to show a simple chooser to select Input & Output device based on gnome control center"
+    },
+    {
+        "name": "algolia/shipjs",
+        "url": "https://github.com/algolia/shipjs",
+        "stars": 766,
+        "last_updated": "2025-03-11T08:05:34Z",
+        "description": "Take control of what is going to be your next release."
+    },
+    {
+        "name": "Shinao/SmartMirror",
+        "url": "https://github.com/Shinao/SmartMirror",
+        "stars": 751,
+        "last_updated": "2024-11-26T09:03:33Z",
+        "description": "Motion controlled SmartMirror "
+    },
+    {
+        "name": "Izzimach/react-pixi",
+        "url": "https://github.com/Izzimach/react-pixi",
+        "stars": 741,
+        "last_updated": "2025-02-16T16:44:43Z",
+        "description": "Create/control a Pixi.js canvas using React"
+    },
+    {
+        "name": "openscope/openscope",
+        "url": "https://github.com/openscope/openscope",
+        "stars": 730,
+        "last_updated": "2025-04-20T19:45:09Z",
+        "description": "openScope Air Traffic Control Simulator"
+    },
+    {
+        "name": "mochixuan/react-native-drag-sort",
+        "url": "https://github.com/mochixuan/react-native-drag-sort",
+        "stars": 726,
+        "last_updated": "2025-04-17T03:10:32Z",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25Drag and drop sort control for react-native"
+    },
+    {
+        "name": "titaniumnetwork-dev/Ultraviolet",
+        "url": "https://github.com/titaniumnetwork-dev/Ultraviolet",
+        "stars": 678,
+        "last_updated": "2025-04-23T14:17:54Z",
+        "description": "A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service worker script that follows the TompHTTP specifications."
+    },
+    {
+        "name": "webkitdotnet/webkitdotnet",
+        "url": "https://github.com/webkitdotnet/webkitdotnet",
+        "stars": 670,
+        "last_updated": "2024-12-27T17:22:59Z",
+        "description": ".NET control library wrapper for WebKit"
+    },
+    {
+        "name": "JamesBarwell/rpi-gpio.js",
+        "url": "https://github.com/JamesBarwell/rpi-gpio.js",
+        "stars": 660,
+        "last_updated": "2025-03-31T09:36:25Z",
+        "description": "Control Raspberry Pi GPIO pins with node.js"
+    },
+    {
+        "name": "itsnubix/react-native-video-controls",
+        "url": "https://github.com/itsnubix/react-native-video-controls",
+        "stars": 642,
+        "last_updated": "2025-02-27T09:18:46Z",
+        "description": "A React Native video component with controls"
+    },
+    {
+        "name": "nextcloud/photos",
+        "url": "https://github.com/nextcloud/photos",
+        "stars": 628,
+        "last_updated": "2025-04-23T13:07:43Z",
+        "description": "\ud83d\udcf8 Your memories under your control"
+    },
+    {
+        "name": "charliegerard/gaze-detection",
+        "url": "https://github.com/charliegerard/gaze-detection",
+        "stars": 626,
+        "last_updated": "2025-04-12T15:53:44Z",
+        "description": "\ud83d\udc40 Use machine learning in JavaScript to detect eye movements and build gaze-controlled experiences."
+    },
+    {
+        "name": "thomasxiii/lenticular.js",
+        "url": "https://github.com/thomasxiii/lenticular.js",
+        "stars": 623,
+        "last_updated": "2025-02-28T11:19:38Z",
+        "description": "tilt-controlled images"
+    },
+    {
+        "name": "kirankalyan5/react-native-segmented-control-tab",
+        "url": "https://github.com/kirankalyan5/react-native-segmented-control-tab",
+        "stars": 620,
+        "last_updated": "2024-11-19T03:06:25Z",
+        "description": "react-native-segmented-control-tab(for Android/iOS)"
+    },
+    {
+        "name": "sefinek/Sefinek-Blocklist-Collection",
+        "url": "https://github.com/sefinek/Sefinek-Blocklist-Collection",
+        "stars": 610,
+        "last_updated": "2025-04-24T06:10:15Z",
+        "description": "\ud83c\udf0d A repository of blocklists for various DNS servers, featuring over 100 links and more than 6 million domains. Additionally, you can use our personalized Blocklist Generator to customize content filtering according to your individual needs, giving you full control over what should be blocked on your network."
+    },
+    {
+        "name": "kentcdodds/genie",
+        "url": "https://github.com/kentcdodds/genie",
+        "stars": 571,
+        "last_updated": "2025-02-20T09:12:40Z",
+        "description": "Keyboard control for web applications (better than cryptic shortcuts). 3.5K minified & gzipped"
+    },
+    {
+        "name": "pascalopitz/unoffical-sonos-controller-for-linux",
+        "url": "https://github.com/pascalopitz/unoffical-sonos-controller-for-linux",
+        "stars": 560,
+        "last_updated": "2025-04-12T14:20:11Z",
+        "description": "An Electron based linux app for controlling your sonos system."
+    },
+    {
+        "name": "hacksparrow/remote.js",
+        "url": "https://github.com/hacksparrow/remote.js",
+        "stars": 557,
+        "last_updated": "2025-03-07T04:02:52Z",
+        "description": "Remote control for Web apps"
+    },
+    {
+        "name": "mitranim/posterus",
+        "url": "https://github.com/mitranim/posterus",
+        "stars": 548,
+        "last_updated": "2025-02-13T01:14:21Z",
+        "description": "Composable async primitives with cancelation, control over scheduling, and coroutines. Superior replacement for JS Promises."
+    },
+    {
+        "name": "jmar777/suspend",
+        "url": "https://github.com/jmar777/suspend",
+        "stars": 547,
+        "last_updated": "2025-03-21T21:00:38Z",
+        "description": "Callback-free control flow for Node using ES6 generators."
+    },
+    {
+        "name": "embedly/player.js",
+        "url": "https://github.com/embedly/player.js",
+        "stars": 543,
+        "last_updated": "2025-03-28T21:19:35Z",
+        "description": "Control embedded video and audio across multiple providers"
+    },
+    {
+        "name": "codingXiaxw/shiro",
+        "url": "https://github.com/codingXiaxw/shiro",
+        "stars": 541,
+        "last_updated": "2025-03-23T09:07:33Z",
+        "description": "integrating `Shiro` into SSM to control the authority management :bowtie:"
+    },
+    {
+        "name": "CliffCloud/Leaflet.EasyButton",
+        "url": "https://github.com/CliffCloud/Leaflet.EasyButton",
+        "stars": 534,
+        "last_updated": "2025-03-27T21:28:54Z",
+        "description": "leaflet control buttons with icons and callbacks"
+    },
+    {
+        "name": "OmerTu/GoogleHomeKodi",
+        "url": "https://github.com/OmerTu/GoogleHomeKodi",
+        "stars": 527,
+        "last_updated": "2025-04-18T07:45:15Z",
+        "description": "Control kodi via Google Home / Assistant"
+    },
+    {
+        "name": "4xmen/pm2panel",
+        "url": "https://github.com/4xmen/pm2panel",
+        "stars": 521,
+        "last_updated": "2025-04-20T18:31:37Z",
+        "description": "pm2 web control panel to manager process with web ui"
+    },
+    {
+        "name": "DataGridXL/DataGridXL2",
+        "url": "https://github.com/DataGridXL/DataGridXL2",
+        "stars": 519,
+        "last_updated": "2025-04-19T11:37:19Z",
+        "description": "Excel-like Experience for Web Apps (The performant & reliable Vanilla Javascript data grid with Excel-like controls)"
+    },
+    {
+        "name": "adrianhajdin/project_news_alan_ai",
+        "url": "https://github.com/adrianhajdin/project_news_alan_ai",
+        "stars": 512,
+        "last_updated": "2025-04-17T20:20:50Z",
+        "description": "In this video, we're going to build a Conversational Voice Controlled React News Application using Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. "
+    },
+    {
+        "name": "bard/mozrepl",
+        "url": "https://github.com/bard/mozrepl",
+        "stars": 510,
+        "last_updated": "2024-11-24T14:09:07Z",
+        "description": "Remotely control Firefox and other Mozilla apps with JavaScript"
+    },
+    {
+        "name": "wangwei39120157028/UAVS",
+        "url": "https://github.com/wangwei39120157028/UAVS",
+        "stars": 501,
+        "last_updated": "2025-04-23T01:45:29Z",
+        "description": "Intelligent UAV path planning simulation system is a software with fine operation control, strong platform integration, omnidirectional model building and application automation. It takes the UAV war between A and B in Zone C as the background. The core function of the system is to plan the UAV route through the simulation platform and verify the output. The data can be imported into the real UAV to make it accurately arrive at any position in the battlefield according to the specified route and support the joint action of multi-person and multi-device formation."
+    },
+    {
+        "name": "auth0/node-jsonwebtoken",
+        "url": "https://github.com/auth0/node-jsonwebtoken",
+        "stars": 17921,
+        "last_updated": "2025-04-23T16:56:45Z",
+        "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
+    },
+    {
+        "name": "Rob--W/cors-anywhere",
+        "url": "https://github.com/Rob--W/cors-anywhere",
+        "stars": 9113,
+        "last_updated": "2025-04-23T19:52:14Z",
+        "description": "CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request."
+    },
+    {
+        "name": "remix-run/history",
+        "url": "https://github.com/remix-run/history",
+        "stars": 8321,
+        "last_updated": "2025-04-24T00:53:18Z",
+        "description": "Manage session history with JavaScript"
+    },
+    {
+        "name": "expressjs/session",
+        "url": "https://github.com/expressjs/session",
+        "stars": 6305,
+        "last_updated": "2025-04-22T02:07:57Z",
+        "description": "Simple session middleware for Express"
+    },
+    {
+        "name": "expressjs/cors",
+        "url": "https://github.com/expressjs/cors",
+        "stars": 6130,
+        "last_updated": "2025-04-23T13:09:43Z",
+        "description": "Node.js CORS middleware"
+    },
+    {
+        "name": "dwyl/learn-json-web-tokens",
+        "url": "https://github.com/dwyl/learn-json-web-tokens",
+        "stars": 4190,
+        "last_updated": "2025-04-17T01:16:20Z",
+        "description": ":closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)"
+    },
+    {
+        "name": "cyu/rack-cors",
+        "url": "https://github.com/cyu/rack-cors",
+        "stars": 3283,
+        "last_updated": "2025-04-03T11:22:43Z",
+        "description": "Rack Middleware for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible."
+    },
+    {
+        "name": "jpillora/xdomain",
+        "url": "https://github.com/jpillora/xdomain",
+        "stars": 3126,
+        "last_updated": "2025-02-28T16:14:20Z",
+        "description": "A pure JavaScript CORS alternative"
+    },
+    {
+        "name": "asciinema/asciinema-player",
+        "url": "https://github.com/asciinema/asciinema-player",
+        "stars": 2747,
+        "last_updated": "2025-04-22T11:16:52Z",
+        "description": "Web player for terminal session recordings"
+    },
+    {
+        "name": "developit/express-es6-rest-api",
+        "url": "https://github.com/developit/express-es6-rest-api",
+        "stars": 2458,
+        "last_updated": "2025-04-03T11:20:35Z",
+        "description": ":battery: Starter project for an ES6 RESTful Express API."
+    },
+    {
+        "name": "atulmy/crate",
+        "url": "https://github.com/atulmy/crate",
+        "stars": 2432,
+        "last_updated": "2025-04-18T00:14:50Z",
+        "description": "\ud83d\udc55 \ud83d\udc56 \ud83d\udce6  A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Allows users to get monthly subscription of trendy clothes and accessories."
+    },
+    {
+        "name": "franciscop/brownies",
+        "url": "https://github.com/franciscop/brownies",
+        "stars": 2381,
+        "last_updated": "2025-04-23T09:44:15Z",
+        "description": "\ud83c\udf6b Tastier cookies, local, session, and db storage in a tiny package. Includes subscribe() events for changes."
+    },
+    {
+        "name": "lipp/login-with",
+        "url": "https://github.com/lipp/login-with",
+        "stars": 2329,
+        "last_updated": "2025-04-20T22:40:38Z",
+        "description": "Stateless login-with microservice for OAuth"
+    },
+    {
+        "name": "huanghanzhilian/c-shopping",
+        "url": "https://github.com/huanghanzhilian/c-shopping",
+        "stars": 2278,
+        "last_updated": "2025-04-23T09:45:30Z",
+        "description": "A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. \u57fa\u4e8eNextjs\u5f00\u53d1\u540c\u65f6\u9002\u914dDesktop\u3001Tablet\u3001Phone\u591a\u79cd\u8bbe\u5907\u7684\u7cbe\u7f8e\u8d2d\u7269\u5e73\u53f0"
+    },
+    {
+        "name": "lynndylanhurley/redux-auth",
+        "url": "https://github.com/lynndylanhurley/redux-auth",
+        "stars": 2118,
+        "last_updated": "2025-03-29T21:01:45Z",
+        "description": "Complete token authentication system for react + redux that supports isomorphic rendering."
+    },
+    {
+        "name": "blueagler/DeepL-Helper",
+        "url": "https://github.com/blueagler/DeepL-Helper",
+        "stars": 2118,
+        "last_updated": "2025-04-23T23:56:55Z",
+        "description": "Bypass 5,000 characters, Remove edit restriction, Use DeepL Pro Account Cookies/DeepL Api Free Token to translate, Unlock Formal/informal tone, Randomize fingerprint"
+    },
+    {
+        "name": "Consensys/Tokens",
+        "url": "https://github.com/Consensys/Tokens",
+        "stars": 2088,
+        "last_updated": "2025-04-21T12:23:35Z",
+        "description": "Ethereum Token Contracts"
+    },
+    {
+        "name": "salesforce-ux/theo",
+        "url": "https://github.com/salesforce-ux/theo",
+        "stars": 1983,
+        "last_updated": "2025-04-18T07:18:11Z",
+        "description": "Theo is a an abstraction for transforming and formatting Design Tokens"
+    },
+    {
+        "name": "mikenicholson/passport-jwt",
+        "url": "https://github.com/mikenicholson/passport-jwt",
+        "stars": 1978,
+        "last_updated": "2025-04-11T11:36:51Z",
+        "description": "Passport authentication using JSON Web Tokens"
+    },
+    {
+        "name": "wingify/across-tabs",
+        "url": "https://github.com/wingify/across-tabs",
+        "stars": 1669,
+        "last_updated": "2025-04-03T17:26:46Z",
+        "description": "Easy communication between cross-origin browser tabs. Simplified \"CORS\"ing!"
+    },
+    {
+        "name": "iBase4J/iBase4J",
+        "url": "https://github.com/iBase4J/iBase4J",
+        "stars": 1593,
+        "last_updated": "2025-04-17T10:32:30Z",
+        "description": "Spring\uff0cSpringBoot 2.0\uff0cSpringMVC\uff0cMybatis\uff0cmybatis-plus\uff0cmotan/dubbo\u5206\u5e03\u5f0f\uff0cRedis\u7f13\u5b58\uff0cShiro\u6743\u9650\u7ba1\u7406\uff0cSpring-Session\u5355\u70b9\u767b\u5f55\uff0cQuartz\u5206\u5e03\u5f0f\u96c6\u7fa4\u8c03\u5ea6\uff0cRestful\u670d\u52a1\uff0cQQ/\u5fae\u4fe1\u767b\u5f55\uff0cApp token\u767b\u5f55\uff0c\u5fae\u4fe1/\u652f\u4ed8\u5b9d\u652f\u4ed8\uff1b\u65e5\u671f\u8f6c\u6362\u3001\u6570\u636e\u7c7b\u578b\u8f6c\u6362\u3001\u5e8f\u5217\u5316\u3001\u6c49\u5b57\u8f6c\u62fc\u97f3\u3001\u8eab\u4efd\u8bc1\u53f7\u7801\u9a8c\u8bc1\u3001\u6570\u5b57\u8f6c\u4eba\u6c11\u5e01\u3001\u53d1\u9001\u77ed\u4fe1\u3001\u53d1\u9001\u90ae\u4ef6\u3001\u52a0\u5bc6\u89e3\u5bc6\u3001\u56fe\u7247\u5904\u7406\u3001excel\u5bfc\u5165\u5bfc\u51fa\u3001FTP/SFTP/fastDFS\u4e0a\u4f20\u4e0b\u8f7d\u3001\u4e8c\u7ef4\u7801\u3001XML\u8bfb\u5199\u3001\u9ad8\u7cbe\u5ea6\u8ba1\u7b97\u3001\u7cfb\u7edf\u914d\u7f6e\u5de5\u5177\u7c7b\u7b49\u7b49\u3002"
+    },
+    {
+        "name": "joshgeller/react-redux-jwt-auth-example",
+        "url": "https://github.com/joshgeller/react-redux-jwt-auth-example",
+        "stars": 1574,
+        "last_updated": "2025-04-11T09:41:23Z",
+        "description": "Sample project showing possible authentication flow using React, Redux, React-Router, and JWT"
+    },
+    {
+        "name": "dternyak/React-Redux-Flask",
+        "url": "https://github.com/dternyak/React-Redux-Flask",
+        "stars": 1501,
+        "last_updated": "2025-04-18T14:26:39Z",
+        "description": "Boilerplate application for a Python/Flask JWT Backend and a Javascript/React/Redux Front-End with Material UI."
+    },
+    {
+        "name": "hokaccha/node-jwt-simple",
+        "url": "https://github.com/hokaccha/node-jwt-simple",
+        "stars": 1363,
+        "last_updated": "2025-03-05T00:00:42Z",
+        "description": "JWT(JSON Web Token) encode and decode module for node.js"
+    },
+    {
+        "name": "koajs/jwt",
+        "url": "https://github.com/koajs/jwt",
+        "stars": 1347,
+        "last_updated": "2025-02-22T20:30:25Z",
+        "description": "Koa middleware for validating JSON Web Tokens"
+    },
+    {
+        "name": "RahulSChand/gpu_poor",
+        "url": "https://github.com/RahulSChand/gpu_poor",
+        "stars": 1288,
+        "last_updated": "2025-04-23T03:48:21Z",
+        "description": "Calculate token/s & GPU memory requirement for any LLM.  Supports llama.cpp/ggml/bnb/QLoRA quantization"
+    },
+    {
+        "name": "privacypass/challenge-bypass-extension",
+        "url": "https://github.com/privacypass/challenge-bypass-extension",
+        "stars": 1250,
+        "last_updated": "2025-04-16T11:17:56Z",
+        "description": "DEPRECATED - Client for Privacy Pass protocol providing unlinkable cryptographic tokens"
+    },
+    {
+        "name": "codejoust/session.js",
+        "url": "https://github.com/codejoust/session.js",
+        "stars": 1196,
+        "last_updated": "2025-03-29T13:32:25Z",
+        "description": "Session.js - Get user session information"
+    },
+    {
+        "name": "fransr/postMessage-tracker",
+        "url": "https://github.com/fransr/postMessage-tracker",
+        "stars": 1143,
+        "last_updated": "2025-04-22T01:26:25Z",
+        "description": "A Chrome Extension to track postMessage usage (url, domain and stack) both by logging using CORS and also visually as an extension-icon"
+    },
+    {
+        "name": "expressjs/cookie-session",
+        "url": "https://github.com/expressjs/cookie-session",
+        "stars": 1135,
+        "last_updated": "2025-04-22T05:10:11Z",
+        "description": "Simple cookie-based session middleware"
+    },
+    {
+        "name": "lmammino/jwt-cracker",
+        "url": "https://github.com/lmammino/jwt-cracker",
+        "stars": 1097,
+        "last_updated": "2025-04-22T06:28:43Z",
+        "description": "Simple HS256, HS384 & HS512 JWT token brute force cracker."
+    },
+    {
+        "name": "auth0/auth0.js",
+        "url": "https://github.com/auth0/auth0.js",
+        "stars": 1018,
+        "last_updated": "2025-04-16T09:46:39Z",
+        "description": "Auth0 headless browser sdk"
+    },
+    {
+        "name": "burakorkmez/mern-chat-app",
+        "url": "https://github.com/burakorkmez/mern-chat-app",
+        "stars": 1002,
+        "last_updated": "2025-04-24T03:48:10Z",
+        "description": "Real Time Chat App | MERN && Socket.io && JWT"
+    },
+    {
+        "name": "indutny/sticky-session",
+        "url": "https://github.com/indutny/sticky-session",
+        "stars": 963,
+        "last_updated": "2025-04-11T10:02:20Z",
+        "description": "Sticky session balancer based on a `cluster` module"
+    },
+    {
+        "name": "aermin/ghChat",
+        "url": "https://github.com/aermin/ghChat",
+        "stars": 932,
+        "last_updated": "2025-04-02T12:36:25Z",
+        "description": ":octocat: \ud83d\udcf1A chat application for GitHub. React + PWA + Node(koa2) + Typescripts  + Mysql  + Socket.io"
+    },
+    {
+        "name": "LoseNine/Crack-JS-Spider",
+        "url": "https://github.com/LoseNine/Crack-JS-Spider",
+        "stars": 910,
+        "last_updated": "2025-04-23T04:42:16Z",
+        "description": "JS\u7834\u89e3\u9006\u5411\uff0c\u7834\u89e3JS\u53cd\u722c\u866b\u52a0\u5bc6\u53c2\u6570\uff0c\u5df2\u7834\u89e3\u6781\u9a8c\u6ed1\u5757w\uff082022.2.19\uff09\uff0cQQ\u97f3\u4e50sign\uff082022.2.13\uff09\uff0c\u62fc\u591a\u591aanti_content\uff0cboss\u76f4\u8058zp_token\uff0c\u77e5\u4e4ex-zse-96\uff0c\u9177\u72d7kg_mid/dfid\uff0c\u552f\u54c1\u4f1amars_cid\uff0c\u4e2d\u56fd\u88c1\u5224\u6587\u4e66\u7f51\uff082020-06-30\u66f4\u65b0\uff09\uff0c\u6dd8\u5b9d\u5bc6\u7801\uff0c\u5929\u5b89\u4fdd\u9669\u767b\u5f55\uff0cb\u7ad9\u767b\u5f55\uff0c\u623f\u5929\u4e0b\u767b\u5f55\uff0cWPS\u767b\u5f55\uff0c\u5fae\u535a\u767b\u5f55\uff0c\u6709\u9053\u7ffb\u8bd1\uff0c\u7f51\u6613\u767b\u5f55\uff0c\u5fae\u4fe1\u516c\u4f17\u53f7\u767b\u5f55\uff0c\u7a7a\u4e2d\u7f51\u767b\u5f55\uff0c\u4eca\u76ee\u6807\u767b\u5f55\uff0c\u5b66\u751f\u4fe1\u606f\u7ba1\u7406\u7cfb\u7edf\u767b\u5f55\uff0c\u5171\u8d62\u91d1\u878d\u767b\u5f55\uff0c\u91cd\u5e86\u79d1\u6280\u8d44\u6e90\u5171\u4eab\u5e73\u53f0\u767b\u5f55\uff0c\u7f51\u6613\u4e91\u97f3\u4e50\u4e0b\u8f7d\uff0c\u4e00\u952e\u89e3\u6790\u89c6\u9891\u94fe\u63a5\uff0c\u8d22\u8054\u793e\u767b\u5f55\u3002"
+    },
+    {
+        "name": "davellanedam/node-express-mongodb-jwt-rest-api-skeleton",
+        "url": "https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton",
+        "stars": 904,
+        "last_updated": "2025-04-22T14:01:38Z",
+        "description": "This is a basic API REST skeleton written on JavaScript using async/await. Great for building a starter web API for your front-end (Android, iOS, Vue, react, angular, or anything that can consume an API). Demo of frontend in VueJS here: https://github.com/davellanedam/vue-skeleton-mvp"
+    },
+    {
+        "name": "huanghanzhilian/c-shopping-rn",
+        "url": "https://github.com/huanghanzhilian/c-shopping-rn",
+        "stars": 871,
+        "last_updated": "2025-04-20T08:27:43Z",
+        "description": "This is a complete App developed by React Native (Expo). It is a beautiful e-commerce shopping application. \u8fd9\u4e2a\u662f\u4e00\u4e2aReact Native(Expo) \u5f00\u53d1\u7684\u5b8c\u6574App\u5e94\u7528\uff0c\u662f\u4e00\u4e2a\u7cbe\u7f8e\u7684\u7535\u5546\u8d2d\u7269\u5e94\u7528\u3002"
+    },
+    {
+        "name": "sliptree/bootstrap-tokenfield",
+        "url": "https://github.com/sliptree/bootstrap-tokenfield",
+        "stars": 858,
+        "last_updated": "2024-12-11T08:39:55Z",
+        "description": "A jQuery tag/token input plugin for Twitter's Bootstrap, by the guys from Sliptree"
+    },
+    {
+        "name": "no-context/moo",
+        "url": "https://github.com/no-context/moo",
+        "stars": 849,
+        "last_updated": "2025-04-22T19:48:41Z",
+        "description": "Optimised tokenizer/lexer generator! \ud83d\udc04 Uses /y for performance. Moo."
+    },
+    {
+        "name": "saasforge/open-source-saas-boilerpate",
+        "url": "https://github.com/saasforge/open-source-saas-boilerpate",
+        "stars": 833,
+        "last_updated": "2025-04-16T19:58:22Z",
+        "description": "Free SaaS boilerplate (Python/PostgreSQL/ReactJS/Webpack)"
+    },
+    {
+        "name": "gnuns/allOrigins",
+        "url": "https://github.com/gnuns/allOrigins",
+        "stars": 832,
+        "last_updated": "2025-04-17T21:24:58Z",
+        "description": ":alien: Pull content from any page as JSON via API"
+    },
+    {
+        "name": "geekcattle/geek-framework",
+        "url": "https://github.com/geekcattle/geek-framework",
+        "stars": 825,
+        "last_updated": "2025-04-22T07:47:11Z",
+        "description": "\u57fa\u4e8eSpringBoot+Shiro+Redis+Jwt+Thymeleaf+MyBatis \u5f00\u53d1\u7684\u540e\u53f0\u7528\u6237\u3001\u89d2\u8272\u3001\u6743\u9650\u3001\u4f1a\u5458\u7ba1\u7406\u3001RestFul\u3001Token\u548c\u524d\u53f0\u7528\u6237\u767b\u5f55\u6ce8\u518c\u4ee5\u53ca\u524d\u540e\u53f0\u7528\u6237\u5206\u79bb\u7684\u811a\u624b\u67b6"
+    },
+    {
+        "name": "dwyl/hapi-auth-jwt2",
+        "url": "https://github.com/dwyl/hapi-auth-jwt2",
+        "stars": 800,
+        "last_updated": "2025-03-24T00:40:36Z",
+        "description": ":lock: Secure Hapi.js authentication plugin using JSON Web Tokens (JWT) in Headers, URL or Cookies"
+    },
+    {
+        "name": "mrin9/Angular-SpringBoot-REST-JWT",
+        "url": "https://github.com/mrin9/Angular-SpringBoot-REST-JWT",
+        "stars": 793,
+        "last_updated": "2025-04-24T03:00:01Z",
+        "description": "Springboot, Angular and JWT security - Example Project based on Northwind Order Processing"
+    },
+    {
+        "name": "carcabot/tiktok-signature",
+        "url": "https://github.com/carcabot/tiktok-signature",
+        "stars": 793,
+        "last_updated": "2025-04-22T08:09:05Z",
+        "description": "Generate tiktok signature token using node"
+    },
+    {
+        "name": "trochette/Angular-Design-Patterns-Best-Practices",
+        "url": "https://github.com/trochette/Angular-Design-Patterns-Best-Practices",
+        "stars": 785,
+        "last_updated": "2025-02-28T18:10:27Z",
+        "description": "Slideshow from session done @opencodeqc and @MagmaConf, built with AngularJS using best practices expressed in the presentation."
+    },
+    {
+        "name": "koajs/cors",
+        "url": "https://github.com/koajs/cors",
+        "stars": 741,
+        "last_updated": "2025-03-19T04:41:53Z",
+        "description": "Cross-Origin Resource Sharing(CORS) for koa"
+    },
+    {
+        "name": "Maxmudjon/Get_MiHome_devices_token",
+        "url": "https://github.com/Maxmudjon/Get_MiHome_devices_token",
+        "stars": 741,
+        "last_updated": "2025-04-22T15:48:30Z",
+        "description": "Get Mi Home devices token Windows/MacOS app."
+    },
+    {
+        "name": "jparise/chrome-utm-stripper",
+        "url": "https://github.com/jparise/chrome-utm-stripper",
+        "stars": 734,
+        "last_updated": "2025-04-20T20:16:19Z",
+        "description": "Browser extension that strips Google Analytics (UTM) parameters, and various other click tracking tokens, from URL query strings"
+    },
+    {
+        "name": "zhongmiao0706/NumberOne-MM",
+        "url": "https://github.com/zhongmiao0706/NumberOne-MM",
+        "stars": 729,
+        "last_updated": "2025-04-23T06:44:14Z",
+        "description": "Java SSM \u5546\u6237\u7ba1\u7406\u7cfb\u7edf \u5ba2\u6237\u7ba1\u7406 \u5e93\u5b58\u7ba1\u7406 \u9500\u552e\u62a5\u8868 \u9879\u76ee\u6e90\u7801 \u672c\u5546\u54c1\u5356\u7684\u662f\u6e90\u7801\uff0c\u5408\u9002\u7684\u5730\u65b9\u76f4\u63a5\u62ff\u6765\u4f7f\u7528\uff0c\u4e0d\u5408\u9002\u7684\u6839\u636e\u81ea\u5df1\u7684\u9700\u6c42\u4e8c\u6b21\u5f00\u53d1 \u7cfb\u7edf\u4ecb\u7ecd\uff1a 1.\u7cfb\u7edf\u91c7\u7528\u4e3b\u6d41\u7684 SSM \u6846\u67b6 jsp JSTL bootstrap html5 (PC\u6d4f\u89c8\u5668\u4f7f\u7528) 2.springmvc +spring4.2.5+ mybaits3.3 SSM \u666e\u901ajava web\uff08\u975emaven\uff09 \u6570\u636e\u5e93\uff1amysql 3.\u5f00\u53d1\u5de5\u5177\uff1amyeclipse eclipse idea \u5747\u53ef, \u6ca1\u6709\u9650\u5236. \u6211\u8fd9\u8fb9myeclipse 2014 \u5bfc\u51fa\u6765\u7684\u9879\u76ee\u6e90\u7801 \u8d2d\u4e70\u7406\u7531\uff1a 1.\u6b63\u597d\u7b26\u5408\u9700\u6c42\u7684 [\u5e94\u6025] \u6b63\u597d\u7b26\u5408\u9700\u6c42\u7684\u53ef\u4ee5\u76f4\u63a5\u4f7f\u7528\uff0c\u9700\u6c42\u5dee\u5f02\u4e0d\u5927\u7684\uff0c\u7a0d\u5fae\u4e8c\u6b21\u5f00\u53d1\u540e\u518d\u4f7f\u75282.\u9ad8\u624b\u5927\u795e\u4e70\u6765\u5e72\u79c1\u6d3b\u7528 [\u8282\u7ea6\u6210\u672c] \u81ea\u5df1\u63a5\u4e2a\u79c1\u6d3b\u505a\u4e2a\u7cfb\u7edf\uff0c\u5168\u76d8\u81ea\u5df1\u5f00\u53d1\u8d39\u4e8b\u8d39\u529b\u3002\u4e0d\u5982129\u5757\u94b1\u4e00\u6b65\u5230\u4f4d 4.\u65b0\u624b\u4e70\u6765\u5b66\u4e60\u7528 [\u5b66\u4e60] \u6a21\u4eff\u4ee3\u7801\u505a\u4e00\u904d\u589e\u5220\u6539\u67e5\uff0c\u7814\u7a76\u4e0b\u529f\u80fd\u6a21\u5757\uff0c\u5b66\u4e60\u4e0b\u7f16\u7a0b\u601d\u8def\uff0c\u4f1a\u8fdb\u6b65\u5f88\u5feb\uff0c\u5c11\u8d70\u5f2f\u8def 5.\u5916\u884c\u4eba\u4e70\u4e86\u51d1\u70ed\u95f9 [\u4e0d\u5efa\u8bae] \u8981\u6c42\u4f1ajava\uff0c\u80fd\u642d\u5efajava\u5f00\u53d1\u8fd0\u884c\u73af\u5883\uff0c\u5e76\u4e14\u6709java\u7684\u5f00\u53d1\u7ecf\u9a8c\uff0c\u4e0d\u4f1ajava\u7684\u8fd8\u662f\u522b\u51d1\u70ed\u95f9\u4e86 \u8fd9\u4e2a\u4ef7\u683c\u4e0d\u5305\u6559\u4e0d\u5305\u6307\u5bfc\u4e0d\u5305\u89e3\u7b54\uff0c\u53ea\u5305\u539f\u59cb\u4ee3\u7801\u6b63\u5e38\u8fd0\u884c\uff0c\u4e8c\u6b21\u5f00\u53d1\u9020\u6210\u7684\u95ee\u9898\u4e0d\u5e2e\u89e3\u51b3 \u4e1a\u52a1\u6a21\u5757 \u4e3b\u9875\uff1a \u8bb0\u5f55\u603b\u8fdb\u8d27\u989d\u3001\u603b\u9500\u552e\u989d\u3001\u603b\u9500\u552e\u5229\u6da6\u300130\u5929\u5185\u9500\u552e\u91d1\u989d \u7edf\u8ba1\u603b\u5ba2\u6237\u6570\u300130\u5929\u65b0\u589e\u5ba2\u6237\u6570 \u56fe\u8868\u7edf\u8ba1(\u6298\u7ebf\u56fe\u548c\u67f1\u72b6\u56fe)\u5c55\u793a\u4ece\u5f53\u524d\u6708\u4efd\u5f00\u59cb\u524d12\u4e2a\u6708\u9500\u552e\u60c5\u51b5 1. \u5ba2\u6237\u8d44\u6599\uff1a\u8bb0\u5f55\u5ba2\u6237\u8d44\u6599\uff0c\u5907\u6ce8\u5ba2\u6237\u4fe1\u606f\uff0c\u8ddf\u8e2a\u8bb0\u5f55\u5ba2\u6237\u72b6\u51b5 2. \u5ba2\u6237\u5907\u6ce8\uff1a\u5ba2\u6237\u8d44\u6599\u9644\u5c5e\u9009\u9879 3. \u5ba2\u6237\u7ea7\u522b\uff1a\u5ba2\u6237\u8d44\u6599\u9644\u5c5e\u9009\u9879 4. \u5546\u54c1\u5217\u8868\uff1a\u7ef4\u62a4\u5546\u54c1\u6570\u636e\uff0c\u6709\u5bcc\u6587\u672c\u7f16\u8f91\u5668\uff0c\u6709\u660e\u7ec6\u8868\u4e0a\u4f20\u5546\u54c1\u56fe\u7247 5. \u5546\u54c1\u7c7b\u522b\uff1a\u5546\u54c1\u9644\u5c5e\u9009\u9879 6. \u54c1\u724c\u7ba1\u7406\uff1a\u5546\u54c1\u9644\u5c5e\u9009\u9879 7. \u8ba1\u91cf\u5355\u4f4d\uff1a\u5546\u54c1\u9644\u5c5e\u9009\u9879 8. \u5546\u54c1\u5e93\u5b58\uff1a\u5c55\u73b0\u5546\u54c1\u5e93\u5b58\u60c5\u51b5\uff0c\u5e93\u5b58\u5c0f\u7684\u6392\u6700\u524d 9. \u5546\u54c1\u5165\u5e93\uff1a\u5f55\u5165\u5546\u54c1\u5165\u5e93\u6570\u636e\uff0c\u6570\u91cf\u3001\u5355\u4ef7\u3001\u5165\u5e93\u65f6\u95f4\u3002\u8ba1\u7b97\u67d0\u65f6\u95f4\u8303\u56f4\u5185\u7684\u8fdb\u8d27\u603b\u91d1\u989d 10. \u5546\u54c1\u51fa\u5e93\uff1a(\u51fa\u5e93\u5373\u9500\u552e)\u5f55\u5165\u5546\u54c1\u51fa\u5e93\u6570\u91cf\u3001\u9500\u552e\u4ef7\u683c\u3001\u9500\u552e\u51fa\u5e93\u65f6\u95f4\u3002\u8ba1\u7b97\u67d0\u65f6\u95f4\u8303\u56f4\u5185\u7684\u9500\u552e\u603b\u91d1\u989d 11. \u5e93\u5b58\u76d8\u70b9\uff1a\u67f1\u72b6\u56fe\u5c55\u793a\u5546\u54c1\u5e93\u5b58\u60c5\u51b5\uff0c\u4ee5\u4fbf\u53ca\u65f6\u8865\u4ed3 12. \u9500\u552e\u62a5\u8868\uff1a\u5217\u8868\u5c55\u793a\u5546\u54c1\u9500\u552e\u60c5\u51b5\uff0c\u53ef\u6839\u636e\u9500\u91cf\u548c\u9500\u552e\u989d\u6392\u5e8f\uff0c\u4ee5\u4fbf\u638c\u63e1\u54ea\u4e2a\u5546\u54c1\u5356\u7684\u597d\u5e76\u8c03\u6574\u9500\u552e\u65b9\u6848 \u7cfb\u7edf\u6a21\u5757 1. \u6743\u9650\u7ba1\u7406\uff1a\u70b9\u5f00\u4e8c\u7ea7\u83dc\u5355\u8fdb\u5165\u4e09\u7ea7\u83dc\u5355\u663e\u793a \u89d2\u8272(\u57fa\u7840\u6743\u9650)\u548c\u6309\u94ae\u6743\u9650 \u89d2\u8272(\u57fa\u7840\u6743\u9650): \u5206\u89d2\u8272\u7ec4\u548c\u89d2\u8272,\u72ec\u7acb\u5206\u914d\u83dc\u5355\u6743\u9650\u548c\u589e\u5220\u6539\u67e5\u6743\u9650\u3002 \u6309\u94ae\u6743\u9650: \u7ed9\u89d2\u8272\u5206\u914d\u6309\u94ae\u6743\u9650\u3002 2. \u6309\u94ae\u7ba1\u7406\uff1a\u81ea\u5b9a\u4e49\u6309\u94ae\u7ba1\u7406\uff0c\u7ef4\u62a4\u6309\u94ae\u6743\u9650\u6807\u8bc6\u7b49 3. \u83dc\u5355\u7ba1\u7406\uff1aN\u7ea7\u522b\u81ea\u5b9a\u4e49\u83dc\u5355\uff0c\u81ea\u5b9a\u4e49\u83dc\u5355\u56fe\u6807\uff0c\u4e1a\u52a1\u83dc\u5355\u548c\u7cfb\u7edf\u83dc\u5355\u5206\u79bb\uff0c\u83dc\u5355\u72b6\u6001\u663e\u793a\u9690\u85cf\uff08\u9012\u5f52\u5904\u7406\uff09 4. \u6570\u636e\u5b57\u5178\uff1aN\u7ea7\u522b\uff0c\u652f\u6301\u591a\u7ea7\u522b\u5206\u7c7b\u3002\u5185\u8bbe\u7f16\u53f7\uff0c\u6392\u5e8f\u7b49 5. \u5728\u7ebf\u7ba1\u7406\uff1awebsocket\u6280\u672f\uff0c\u5b9e\u65f6\u68c0\u6d4b\u5728\u7ebf\u7528\u6237\u5217\u8868\uff0c\u7edf\u8ba1\u5728\u7ebf\u4eba\u6570,\u53ef\u5f3a\u5236\u7528\u6237\u4e0b\u7ebf \u540c\u4e00\u7528\u6237\u53ea\u80fd\u5728\u4e00\u4e2a\u5ba2\u6237\u7aef\u767b\u5f55 6. \u65e5\u5fd7\u7ba1\u7406\uff1a\u8bb0\u5f55\u7528\u6237\u767b\u5f55\u9000\u51fa\u548c\u4e00\u4e9b\u91cd\u8981\u64cd\u4f5c\u8bb0\u5f55 7. \u7cfb\u7edf\u7528\u6237\uff1a\u5bf9\u5404\u4e2a\u57fa\u672c\u7684\u7528\u6237\u589e\u5220\u6539\u67e5\uff0c\u5355\u53d1\u3001\u7fa4\u53d1\u7ad9\u5185\u4fe1\u90ae\u4ef6\u77ed\u4fe1\uff0c\u5bfc\u5165\u5bfc\u51faexcel\u8868\u683c\uff0c\u67e5\u770b\u5546\u6237\u7ecf\u8425\u72b6\u51b5 8. \u6027\u80fd\u76d1\u63a7\uff1a\u76d1\u63a7\u6574\u4e2a\u7cfb\u7edf\u7684\u6027\u80fd\uff0cSQL\u76d1\u63a7\uff0cSQL\u9632\u706b\u5899\uff0cURL\u76d1\u63a7\uff0cSPRING\u76d1\u63a7\uff0cSESSION\u76d1\u63a7\u7b49 9. \u56fe\u7247\u7ba1\u7406\uff1a\u5bf9\u6279\u91cf\u4e0a\u4f20\u7684\u56fe\u7247\u7edf\u4e00\u7ba1\u7406 \uff0c\u70b9\u51fb\u653e\u5927\uff0c\u53ef\u6253\u5f00\u591a\u4e2a\uff0c\u81ea\u7531\u5207\u6362\uff0c\u7eda\u4e3d\u9884\u89c8\u6548\u679c 10. \u56fe\u7247\u722c\u866b\uff1a\u8f93\u5165\u67d0\u7f51\u5740\uff0c\u722c\u51fa\u5176\u56fe\u7247\u663e\u793a\u5728\u9875\u9762\u4e0a\uff0c\u53ef\u4ee5\u653e\u5927\u9884\u89c8\u3002\u53ef\u4fdd\u5b58\u5230\u670d\u52a1\u5668\u4e0a\uff0c\u5230\u56fe\u7247\u7ba1\u7406\u91cc\u9762 11. \u7ad9\u5185\u4fe1\uff1a\u6536\u4fe1\u7bb1\u548c\u53d1\u4fe1\u7bb1\uff0c websocket\u6280\u672f\u901a\u8baf\u6280\u672f\u505a\u7684\u53ca\u65f6\u6536\u4fe1\u63d0\u9192\uff0c\u53ef\u914d\u7f6e\u8bed\u97f3\u63d0\u793a\u6765\u4fe1 12. \u7cfb\u7edf\u8bbe\u7f6e\uff1a\u4fee\u6539\u7cfb\u7edf\u540d\u79f0\uff0c\u90ae\u4ef6\u670d\u52a1\u5668\u914d\u7f6e\uff0c\u77ed\u4fe1\u8d26\u53f7\u8bbe\u7f6e\uff0c\u56fe\u7247\u6c34\u5370\u914d\u7f6e 13. \u6570\u636e\u5e93\u5907\u4efd\uff1a\u53ef\u5907\u4efd\u5355\u8868\u3001\u6574\u5e93\uff0c\u652f\u6301\u672c\u5730\u548c\u8fdc\u7a0b\u6570\u636e\u5e93\u5907\u4efd 14. \u5907\u4efd\u5b9a\u65f6\u5668\uff1aquartz 2.2 \u5f3a\u5927\u7684\u4efb\u52a1\u8c03\u5ea6\uff0c\u591a\u7ebf\u7a0b\u5907\u4efd\u6570\u636e\u5e93\uff0c\u4efb\u52a1\u542f\u52a8\u5173\u95ed\u5f02\u6b65\u64cd\u4f5c 15. \u6570\u636e\u5e93\u8fd8\u539f\uff1a\u5386\u53f2\u5907\u4efd\u8bb0\u5f55\uff0c\u8fd8\u539f\u6570\u636e\u5e93 or \u5355\u8868 \uff0c\u7edf\u8ba1\u5907\u4efd\u65f6\u95f4\u548c\u6587\u4ef6\u5927\u5c0f 16. SQL\u7f16\u8f91\u5668\uff1a\u5f3a\u5927\u7684SQL\u7f16\u8f91\u5668\uff0c\u652f\u6301\u7f16\u8f91\u8bed\u53e5\u590d\u6742\u67e5\u8be2\u8bed\u53e5\uff0c\u751f\u6210\u52a8\u6001\u62a5\u8868\uff0c\u53ef\u5bfc\u51faexcel \u83dc\u5355\u6743\u9650\uff1a\u5206\u914d\u7ed9\u6bcf\u4e2a\u89d2\u8272\u4e0d\u540c\u7684\u83dc\u5355\u6743\u9650, \u6bcf\u4e2a\u89d2\u8272\u770b\u5230\u7684\u83dc\u5355\u4e0d\u540c\uff0cN\u7ea7\u522b\u83dc\u5355 \u6309\u94ae\u6743\u9650\uff1a\u72ec\u7acb\u5206\u914d\u4e0d\u540c\u7684\u89d2\u8272\u4e0d\u540c\u7684\u529f\u80fd\u6743\u9650\uff0c\u589e\u5220\u6539\u67e5\u6743\u9650\u5206\u914d\u5177\u4f53\u5230\u4e0d\u540c\u7684\u83dc\u5355\uff0c\u81ea\u5b9a\u4e49\u6309\u94ae\u7ba1\u7406 \u652f\u6301\u591a\u7528\u6237\u5206\u6743\u9650\u7ba1\u7406\u540e\u53f0, \u6743\u9650\u5177\u4f53\u5230\u4e0d\u540c\u7684\u83dc\u5355\u4e0d\u540c\u7684\u6309\u94ae \u6280\u672f\u70b9 1. \u5bfc\u51fa \u5bfc\u5165 excel \u6587\u4ef6 2. IO \u6d41\u4e0a\u4f20\u4e0b\u8f7d\u6587\u4ef6 3. \u7fa4\u53d1\u90ae\u4ef6\uff0c\u53ef\u4ee5\u53d1html\u3001\u7eaf\u6587\u672c\u683c\u5f0f\uff0c\u53ef\u4ee5\u53d1\u7ed9\u4efb\u610f\u90ae\u7bb1(\u5b9e\u73b0\u6279\u91cf\u53d1\u9001\u5e7f\u544a\u90ae\u4ef6) 4. \u7fa4\u53d1or\u5355\u72ec \u53d1\u9001\u77ed\u4fe1\uff0c\u652f\u6301\u4e24\u79cd\u7b2c\u4e09\u65b9\u77ed\u4fe1\u5546\u63a5\u53e3 5. spring aop \u4e8b\u52a1\u5904\u7406 6. MD5\u52a0\u5bc6 SHA\u52a0\u5bc6\uff08\u767b\u5f55\u5bc6\u7801\u7528\u6b64\u52a0\u5bc6\uff09\u63a5\u53e3\u52a0\u5bc6\u8eab\u4efd\u6821\u9a8c 7. \u6570\u636e\u5e93\u8fde\u63a5\u6c60 \u963f\u91cc\u7684 druid\u3002Druid\u5728\u76d1\u63a7\u3001\u53ef\u6269\u5c55\u6027\u3001\u7a33\u5b9a\u6027\u548c\u6027\u80fd\u65b9\u9762\u90fd\u6709\u660e\u663e\u7684\u4f18\u52bf,\u652f\u6301\u5e76\u53d1 8.\u52a0\u5165\u5b89\u5168\u6846\u67b6 shiro (\u767b\u5f55\u6388\u6743)(session\u7ba1\u7406) 9.\u6839\u636e\u6c49\u5b57 \u89e3\u6790\u6c49\u5b57\u7684\u5168\u62fc(\u62fc\u97f3)\u548c\u9996\u5b57\u6bcd(\u5bfc\u5165excel\u5230\u7528\u6237\u8868\uff0c\u6839\u636e\u7528\u6237\u7684\u6c49\u5b57\u59d3\u540d\u751f\u6210\u62fc\u97f3\u7684\u7528\u6237\u540d) 10.java Quartz2.2 \u4efb\u52a1\u8c03\u5ea6 11.Base64\u4f20\u8f93\u56fe\u7247 12.\u56fe\u7247\u52a0\u6c34\u5370(\u56fe\u7247\u6c34\u5370\uff0c\u6587\u5b57\u6c34\u5370\uff09 13.\u6279\u91cf\u5f02\u6b65\u4e0a\u4f20\u56fe\u7247\uff0c\u53ef\u9884\u89c8\uff0c\u6709\u8fdb\u5ea6\u6761\uff0c\u652f\u6301\u62d6\u62fd\u4e0a\u4f20(\u767e\u5ea6webuploader )\u3002\u5217\u8868\u52a8\u6001\u6ed1\u52a8\u653e\u5927\u5c55\u793a\u3002 14.ehcache \u81ea\u5b9a\u4e49\u4e8c\u7ea7\u7f13\u5b58 \uff0c\u9009\u62e9\u7f13\u5b58\u5b58\u653e\u76ee\u5f55\uff0c\u5904\u7406\u5e76\u53d1\uff0c\u589e\u52a0\u7cfb\u7edf\u6027\u80fd 15.uploadify \u4e0a\u4f20\u63d2\u4ef6\uff0c\u5355\u6761\u3001\u6279\u91cf\u4e0a\u4f20\u591a\u7ebf\u7a0b\uff0c\u5e26\u8fdb\u5ea6\u6761\uff0c\u5f02\u6b65\uff0c\u56fe\u7247\u3001\u89c6\u9891, \u5176\u5b83\u6587\u4ef6\u683c\u5f0f\u5747\u53ef\u4e0a\u4f20 16.tab\u6807\u7b7e\u9875\u9762\u529f\u80fd\uff0c\u6807\u7b7e\u81ea\u7531\u5207\u6362\uff0c\u4e0d\u91cd\u590d\u64cd\u4f5c\u6570\u636e\u5e93 17.\u767e\u5ea6\u5bcc\u6587\u672c\u7f16\u8f91\u5668\uff0c\u53ef\u4e0a\u4f20\u56fe\u7247 18.\u7f51\u9875\u722c\u866b\u6280\u672f\uff0c\u53ef\u6839\u636e\u7f51\u9875\u5730\u5740\u722c\u53d6\u56fe\u7247\u548c\u7f51\u9875\u6807\u9898\u7b49\u4fe1\u606f(\u722c\u53d6\u67d0\u5546\u57ce\u56fe\u7247\u4fdd\u5b58\u672c\u670d\u52a1\u5668) 19.java websocket \u5373\u65f6\u901a\u8baf\u6280\u672f\uff0c\u70b9\u5bf9\u70b9\uff0c\u7fa4\u804a\uff0c\u5355\u804a 20.HTML5 + JAVAEE WebSocket \u901a\u4fe1\u6280\u672f\uff0cWebSocket \u9a8c\u8bc1\u7528\u6237\u767b\u5f55\uff0c\u5f3a\u5236\u67d0\u7528\u6237\u4e0b\u7ebf 21.\u7ad9\u5185\u4fe1\u8bed\u97f3\u63d0\u9192\uff0cjs\u63a7\u5236\u97f3\u9891\u64ad\u653e 22.\u8c03\u7528\u6444\u50cf\u5934\u62cd\u7167\u6280\u672f\uff0c\u56fe\u7247\u88c1\u526a\u6280\u672f"
+    },
+    {
+        "name": "alvin0216/react-blog",
+        "url": "https://github.com/alvin0216/react-blog",
+        "stars": 721,
+        "last_updated": "2025-04-10T02:49:00Z",
+        "description": " react hooks + koa2 + sequelize + mysql \u6784\u5efa\u7684\u4e2a\u4eba\u535a\u5ba2\u3002\u5177\u5907\u8bc4\u8bba\u3001\u901a\u77e5\u3001\u4e0a\u4f20\u6587\u7ae0\u7b49\u7b49\u529f\u80fd"
+    },
+    {
+        "name": "Zibri/cloudflare-cors-anywhere",
+        "url": "https://github.com/Zibri/cloudflare-cors-anywhere",
+        "stars": 719,
+        "last_updated": "2025-04-22T06:43:24Z",
+        "description": "CORS \"anywhere\" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/"
+    },
+    {
+        "name": "auth0-blog/nodejs-jwt-authentication-sample",
+        "url": "https://github.com/auth0-blog/nodejs-jwt-authentication-sample",
+        "stars": 687,
+        "last_updated": "2025-04-12T06:48:56Z",
+        "description": "A NodeJS API that supports username and password authentication with JWTs"
+    },
+    {
+        "name": "hyperobject/crossorigin.me",
+        "url": "https://github.com/hyperobject/crossorigin.me",
+        "stars": 679,
+        "last_updated": "2025-04-17T01:56:01Z",
+        "description": "A CORS proxy for everyone."
+    },
+    {
+        "name": "fmoo/react-typeahead",
+        "url": "https://github.com/fmoo/react-typeahead",
+        "stars": 678,
+        "last_updated": "2025-03-16T17:17:31Z",
+        "description": "Pure react-based typeahead and typeahead-tokenizer"
+    },
+    {
+        "name": "imranhsayed/nextjs-headless-wordpress",
+        "url": "https://github.com/imranhsayed/nextjs-headless-wordpress",
+        "stars": 669,
+        "last_updated": "2025-04-23T08:50:16Z",
+        "description": "\ud83d\udd25 Nextjs Headless WordPress"
+    },
+    {
+        "name": "MyEtherWallet/ethereum-lists",
+        "url": "https://github.com/MyEtherWallet/ethereum-lists",
+        "stars": 668,
+        "last_updated": "2025-04-17T14:19:07Z",
+        "description": "A repository for maintaining lists of things like malicious URLs, fake token addresses, and so forth. We love lists."
+    },
+    {
+        "name": "hapijs/iron",
+        "url": "https://github.com/hapijs/iron",
+        "stars": 634,
+        "last_updated": "2025-01-28T20:58:45Z",
+        "description": "Encapsulated tokens (encrypted and mac'ed objects)"
+    },
+    {
+        "name": "Widen/cloudfront-auth",
+        "url": "https://github.com/Widen/cloudfront-auth",
+        "stars": 628,
+        "last_updated": "2025-02-01T05:05:20Z",
+        "description": "An AWS CloudFront Lambda@Edge function to authenticate requests using Google Apps, Microsoft, Auth0, OKTA, and GitHub login"
+    },
+    {
+        "name": "rishipr/mern-auth",
+        "url": "https://github.com/rishipr/mern-auth",
+        "stars": 616,
+        "last_updated": "2025-04-05T03:24:49Z",
+        "description": "MERN (+ Redux) user authentication boilerplate with Passport.js and JWT "
+    },
+    {
+        "name": "dappuniversity/nft",
+        "url": "https://github.com/dappuniversity/nft",
+        "stars": 605,
+        "last_updated": "2025-04-19T15:06:22Z",
+        "description": "Crypto Collectible NFT Tutorial with ERC-721 Tokens"
+    },
+    {
+        "name": "heimi-block/egg-RESTfulAPI",
+        "url": "https://github.com/heimi-block/egg-RESTfulAPI",
+        "stars": 596,
+        "last_updated": "2025-04-14T14:12:28Z",
+        "description": "\ud83c\udfc5 \u57fa\u4e8eEgg.js 2.0 & {mongoose,jwt}RESTful API \u6a21\u677f\uff0c\u7528\u4e8e\u5feb\u901f\u96c6\u6210\u5f00\u53d1RESTful\u524d\u540e\u7aef\u5206\u79bb\u7684\u670d\u52a1\u7aef\u3002"
+    },
+    {
+        "name": "Authing/authing-js-sdk",
+        "url": "https://github.com/Authing/authing-js-sdk",
+        "stars": 590,
+        "last_updated": "2025-03-27T05:44:07Z",
+        "description": "\ud83d\udda5 Authing SDK for JavaScript, Miniprogram"
+    },
+    {
+        "name": "auth0-blog/react-flux-jwt-authentication-sample",
+        "url": "https://github.com/auth0-blog/react-flux-jwt-authentication-sample",
+        "stars": 589,
+        "last_updated": "2024-11-08T02:37:30Z",
+        "description": "Sample for implementing Authentication with a React Flux app and JWTs"
+    },
+    {
+        "name": "rudyxu1102/cross-origin",
+        "url": "https://github.com/rudyxu1102/cross-origin",
+        "stars": 580,
+        "last_updated": "2025-01-15T07:48:50Z",
+        "description": "A collection of simple demos of CORS"
+    },
+    {
+        "name": "jsonwebtoken/jsonwebtoken.github.io",
+        "url": "https://github.com/jsonwebtoken/jsonwebtoken.github.io",
+        "stars": 559,
+        "last_updated": "2025-04-22T08:07:29Z",
+        "description": "Developer-centric site to create awareness of JWTs and troubleshoot them."
+    },
+    {
+        "name": "appfeel/node-pushnotifications",
+        "url": "https://github.com/appfeel/node-pushnotifications",
+        "stars": 548,
+        "last_updated": "2025-03-05T13:15:53Z",
+        "description": "Push notifications for GCM, APNS, MPNS, AMZ (automatic detection from device token)"
+    },
+    {
+        "name": "glayzzle/php-parser",
+        "url": "https://github.com/glayzzle/php-parser",
+        "stars": 542,
+        "last_updated": "2025-04-17T07:30:22Z",
+        "description": ":herb: NodeJS PHP Parser - extract AST or tokens"
+    },
+    {
+        "name": "amazingandyyy/mern",
+        "url": "https://github.com/amazingandyyy/mern",
+        "stars": 536,
+        "last_updated": "2025-04-13T12:47:25Z",
+        "description": "\ud83c\udf10  MERN stack 2.0 - MongoDB, Express, React/Redux, Node"
+    },
+    {
+        "name": "auth0/nginx-jwt",
+        "url": "https://github.com/auth0/nginx-jwt",
+        "stars": 535,
+        "last_updated": "2024-09-06T00:14:08Z",
+        "description": "Lua script for Nginx that performs reverse proxy auth using JWT's"
+    },
+    {
+        "name": "RobinCK/vue-ls",
+        "url": "https://github.com/RobinCK/vue-ls",
+        "stars": 533,
+        "last_updated": "2025-02-28T03:02:30Z",
+        "description": ":boom: Vue plugin for work with local storage, session storage and memory storage from Vue context \ud83c\uddfa\ud83c\udde6"
+    },
+    {
+        "name": "fastify/fastify-jwt",
+        "url": "https://github.com/fastify/fastify-jwt",
+        "stars": 532,
+        "last_updated": "2025-04-15T05:37:12Z",
+        "description": "JWT utils for Fastify"
+    },
+    {
+        "name": "MichielDeMey/express-jwt-permissions",
+        "url": "https://github.com/MichielDeMey/express-jwt-permissions",
+        "stars": 522,
+        "last_updated": "2025-03-08T19:28:54Z",
+        "description": ":vertical_traffic_light: Express middleware for JWT permissions"
+    },
+    {
+        "name": "lydell/js-tokens",
+        "url": "https://github.com/lydell/js-tokens",
+        "stars": 517,
+        "last_updated": "2025-04-18T00:18:15Z",
+        "description": "Tiny JavaScript tokenizer."
+    },
+    {
+        "name": "actions/create-github-app-token",
+        "url": "https://github.com/actions/create-github-app-token",
+        "stars": 508,
+        "last_updated": "2025-04-23T09:50:01Z",
+        "description": "GitHub Action for creating a GitHub App Installation Access Token"
+    },
+    {
+        "name": "monsur/test-cors.org",
+        "url": "https://github.com/monsur/test-cors.org",
+        "stars": 506,
+        "last_updated": "2025-04-22T05:45:22Z",
+        "description": "A tool to help test CORS requests"
+    },
+    {
+        "name": "gitdagray/react_jwt_auth",
+        "url": "https://github.com/gitdagray/react_jwt_auth",
+        "stars": 505,
+        "last_updated": "2025-04-19T13:40:13Z",
+        "description": null
+    },
+    {
+        "name": "simpletut/Universal-React-Apollo-Registration",
+        "url": "https://github.com/simpletut/Universal-React-Apollo-Registration",
+        "stars": 502,
+        "last_updated": "2024-10-22T09:47:27Z",
+        "description": "Open Source Universal User Registration System \u2013 NodeJS React Apollo GraphQL JWT MongoDB"
+    },
+    {
+        "name": "MHSanaei/3x-ui",
+        "url": "https://github.com/MHSanaei/3x-ui",
+        "stars": 18791,
+        "last_updated": "2025-04-24T06:56:25Z",
+        "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard) "
+    },
+    {
+        "name": "NidukaAkalanka/x-ui-english",
+        "url": "https://github.com/NidukaAkalanka/x-ui-english",
+        "stars": 747,
+        "last_updated": "2025-04-22T16:04:00Z",
+        "description": "English Version of X-UI, A Multi-protocol & Multi-user Xray Panel with a Web UI and a TG Bot"
+    },
+    {
+        "name": "sing-web/x-ui",
+        "url": "https://github.com/sing-web/x-ui",
+        "stars": 533,
+        "last_updated": "2025-04-18T13:44:57Z",
+        "description": "xray panel that supports multi-protocol and multi-user"
+    }
+]
